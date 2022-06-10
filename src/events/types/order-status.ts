@@ -11,4 +11,5 @@ export enum OrderStatus {
 
 	// the order has reserved the ticket and the user has paid
 	Complete = "complete",
+
 }
